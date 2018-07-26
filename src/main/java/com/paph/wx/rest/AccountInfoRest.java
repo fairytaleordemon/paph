@@ -19,11 +19,7 @@ import com.paph.wx.dto.account.AccountInfoForm;
 import com.paph.wx.dto.account.AccountInfoList;
 import com.yuanbosu.data.jpa.domain.dto.MessageOutput;
 
-/**
- * 
- * @author suyuanbo
- *
- */
+
 @RestController
 @RequestMapping("/server/account/info")
 public class AccountInfoRest {
